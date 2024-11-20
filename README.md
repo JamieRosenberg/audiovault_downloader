@@ -1,6 +1,6 @@
 # Audiovault Downloader
 
-Audiovault Downloader is a Python script designed to fetch, review, and download audio and video files from Audiovault. The script uses search terms to locate items, allows you to filter results, and downloads selected files while keeping track of their statuses.
+Audiovault Downloader is a Python script designed to fetch, review, and download audio files from Audiovault. The script uses search terms to locate items, allows you to filter results, and downloads selected files while keeping track of their statuses.
 
 ---
 
