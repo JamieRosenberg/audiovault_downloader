@@ -1,0 +1,13 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+venv/
+download/
+
+# Cookies file
+cookies.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.csv
